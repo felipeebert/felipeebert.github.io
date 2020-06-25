@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>reflection study | Felipe Ebert</title>
+    <link>https://felipeebert.github.io/tag/reflection-study/</link>
+      <atom:link href="https://felipeebert.github.io/tag/reflection-study/index.xml" rel="self" type="application/rss+xml" />
+    <description>reflection study</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://felipeebert.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>reflection study</title>
+      <link>https://felipeebert.github.io/tag/reflection-study/</link>
+    </image>
+    
+    <item>
+      <title>A Reflection on &#34;An Exploratory Study on Exception Handling Bugs in Java Programs&#34;</title>
+      <link>https://felipeebert.github.io/publication/ebert-saner-2020/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://felipeebert.github.io/publication/ebert-saner-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
