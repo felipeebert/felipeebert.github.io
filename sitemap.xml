@@ -3,15 +3,167 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://felipeebert.github.io/authors/</loc>
+    <loc>https://felipeebert.github.io/publication-type/1/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://felipeebert.github.io/categories/</loc>
+    <loc>https://felipeebert.github.io/publication/ebert-saner-2020/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://felipeebert.github.io/author/a.-serebrenik/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://felipeebert.github.io/authors/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://felipeebert.github.io/author/f.-castor/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://felipeebert.github.io/author/f.-ebert/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://felipeebert.github.io/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://felipeebert.github.io/author/l.-teixeira/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://felipeebert.github.io/publication/oliveira-saner-2020/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://felipeebert.github.io/publication_types/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://felipeebert.github.io/publication/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://felipeebert.github.io/author/v.-oliveira/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://felipeebert.github.io/publication/ebert-saner-2019/</loc>
+    <lastmod>2019-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://felipeebert.github.io/author/n.-novielli/</loc>
+    <lastmod>2019-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://felipeebert.github.io/publication/ebert-icsme-2018/</loc>
+    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://felipeebert.github.io/publication/ebert-icsme-2017/</loc>
+    <lastmod>2017-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://felipeebert.github.io/publication/reboucas-saner-2016/</loc>
+    <lastmod>2016-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://felipeebert.github.io/author/g.-pinto/</loc>
+    <lastmod>2016-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://felipeebert.github.io/author/m.-reboucas/</loc>
+    <lastmod>2016-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://felipeebert.github.io/author/w.-torres/</loc>
+    <lastmod>2016-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://felipeebert.github.io/publication-type/2/</loc>
+    <lastmod>2015-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://felipeebert.github.io/author/alexander-serebrenik/</loc>
+    <lastmod>2015-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://felipeebert.github.io/publication/ebert-jss-2015/</loc>
+    <lastmod>2015-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://felipeebert.github.io/tag/bugs/</loc>
+    <lastmod>2015-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://felipeebert.github.io/tag/exception-handling/</loc>
+    <lastmod>2015-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://felipeebert.github.io/author/felipe-ebert/</loc>
+    <lastmod>2015-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://felipeebert.github.io/author/fernando-castor/</loc>
+    <lastmod>2015-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://felipeebert.github.io/tag/repository-mining/</loc>
+    <lastmod>2015-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://felipeebert.github.io/tags/</loc>
+    <lastmod>2015-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://felipeebert.github.io/author/i.-moura/</loc>
+    <lastmod>2015-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://felipeebert.github.io/publication/moura-msr-2013/</loc>
+    <lastmod>2015-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://felipeebert.github.io/publication/ebert-icsm-2013/</loc>
+    <lastmod>2013-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://felipeebert.github.io/categories/</loc>
   </url>
   
   <url>
@@ -23,19 +175,7 @@
   </url>
   
   <url>
-    <loc>https://felipeebert.github.io/publication_types/</loc>
-  </url>
-  
-  <url>
-    <loc>https://felipeebert.github.io/publication/</loc>
-  </url>
-  
-  <url>
     <loc>https://felipeebert.github.io/talk/</loc>
-  </url>
-  
-  <url>
-    <loc>https://felipeebert.github.io/tags/</loc>
   </url>
   
 </urlset>

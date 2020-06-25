@@ -5,12 +5,20 @@
     <link>https://felipeebert.github.io/author/felipe-ebert/</link>
       <atom:link href="https://felipeebert.github.io/author/felipe-ebert/index.xml" rel="self" type="application/rss+xml" />
     <description>Felipe Ebert</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Aug 2015 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://felipeebert.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Felipe Ebert</title>
       <link>https://felipeebert.github.io/author/felipe-ebert/</link>
     </image>
+    
+    <item>
+      <title>An Exploratory Study on Exception Handling Bugs in Java Programs</title>
+      <link>https://felipeebert.github.io/publication/ebert-jss-2015/</link>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>https://felipeebert.github.io/publication/ebert-jss-2015/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
