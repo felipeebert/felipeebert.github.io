@@ -20,5 +20,29 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Keynote: Understanding Confusion in Code Reviews</title>
+      <link>https://felipeebert.github.io/talk/ictt-2018/</link>
+      <pubDate>Wed, 29 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://felipeebert.github.io/talk/ictt-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Confusion Detection in Code Reviews</title>
+      <link>https://felipeebert.github.io/talk/crest-2017/</link>
+      <pubDate>Tue, 28 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://felipeebert.github.io/talk/crest-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Confusion Detection in Code Reviews</title>
+      <link>https://felipeebert.github.io/talk/benevol-2017/</link>
+      <pubDate>Wed, 12 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://felipeebert.github.io/talk/benevol-2017/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

@@ -153,6 +153,36 @@
   </url>
   
   <url>
+    <loc>https://felipeebert.github.io/tag/citt/</loc>
+    <lastmod>2018-08-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://felipeebert.github.io/talk/ictt-2018/</loc>
+    <lastmod>2018-08-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://felipeebert.github.io/talk/</loc>
+    <lastmod>2018-08-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://felipeebert.github.io/talk/crest-2017/</loc>
+    <lastmod>2017-11-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://felipeebert.github.io/tag/cow/</loc>
+    <lastmod>2017-11-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://felipeebert.github.io/tag/crest-open-workshop/</loc>
+    <lastmod>2017-11-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://felipeebert.github.io/publication/ebert-icsme-2017/</loc>
     <lastmod>2017-09-01T00:00:00+00:00</lastmod>
   </url>
@@ -160,6 +190,16 @@
   <url>
     <loc>https://felipeebert.github.io/tag/machine-learning/</loc>
     <lastmod>2017-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://felipeebert.github.io/tag/benevol/</loc>
+    <lastmod>2017-04-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://felipeebert.github.io/talk/benevol-2017/</loc>
+    <lastmod>2017-04-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -237,10 +277,6 @@
   
   <url>
     <loc>https://felipeebert.github.io/post/</loc>
-  </url>
-  
-  <url>
-    <loc>https://felipeebert.github.io/talk/</loc>
   </url>
   
 </urlset>

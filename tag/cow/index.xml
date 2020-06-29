@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>COW | Felipe Ebert</title>
+    <link>https://felipeebert.github.io/tag/cow/</link>
+      <atom:link href="https://felipeebert.github.io/tag/cow/index.xml" rel="self" type="application/rss+xml" />
+    <description>COW</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 28 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://felipeebert.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>COW</title>
+      <link>https://felipeebert.github.io/tag/cow/</link>
+    </image>
+    
+    <item>
+      <title>Confusion Detection in Code Reviews</title>
+      <link>https://felipeebert.github.io/talk/crest-2017/</link>
+      <pubDate>Tue, 28 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://felipeebert.github.io/talk/crest-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
