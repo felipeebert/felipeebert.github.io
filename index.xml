@@ -29,11 +29,36 @@
     </item>
     
     <item>
+      <title>Understanding Confusion in Code Reviews</title>
+      <link>https://felipeebert.github.io/post/phd-2019/</link>
+      <pubDate>Fri, 15 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://felipeebert.github.io/post/phd-2019/</guid>
+      <description>&lt;p&gt;Elected the best PhD thesis of 2019 at CIn/UFPE! &lt;br&gt;
+Currently competing for the national award &amp;ldquo;&lt;a target=&#34;_blank&#34; href=&#34;https://www.capes.gov.br/36-noticias/10316-abertas-as-inscricoes-para-o-premio-capes-2020&#34;&gt;Prêmio CAPES de Tese&lt;/a&gt;&amp;rdquo;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Confusion in Code Reviews: Reasons, Impacts, and Coping Strategies</title>
       <link>https://felipeebert.github.io/publication/ebert-saner-2019/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
       <guid>https://felipeebert.github.io/publication/ebert-saner-2019/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Community Services</title>
+      <link>https://felipeebert.github.io/services/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://felipeebert.github.io/services/</guid>
+      <description>&lt;p&gt;widget = &amp;ldquo;blank&amp;rdquo;
+headless = true  # This file represents a page section.&lt;/p&gt;
+&lt;h1 id=&#34;-put-your-section-options-here-title-etc-&#34;&gt;&amp;hellip; Put Your Section Options Here (title etc.) &amp;hellip;&lt;/h1&gt;
+&lt;p&gt;[design]&lt;/p&gt;
+&lt;h1 id=&#34;choose-how-many-columns-the-section-has-valid-values-1-or-2&#34;&gt;Choose how many columns the section has. Valid values: 1 or 2.&lt;/h1&gt;
+&lt;p&gt;columns = &amp;ldquo;1&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;Hello, this is a page where I descrive&amp;hellip;.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -105,6 +130,14 @@
       <link>https://felipeebert.github.io/publication/ebert-icsm-2013/</link>
       <pubDate>Sun, 01 Sep 2013 00:00:00 +0000</pubDate>
       <guid>https://felipeebert.github.io/publication/ebert-icsm-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Exploratory Study on Exception Handling Bugs</title>
+      <link>https://felipeebert.github.io/post/master-2013/</link>
+      <pubDate>Tue, 13 Aug 2013 00:00:00 +0000</pubDate>
+      <guid>https://felipeebert.github.io/post/master-2013/</guid>
       <description></description>
     </item>
     

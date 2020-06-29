@@ -5,12 +5,22 @@
     <link>https://felipeebert.github.io/tag/confusion/</link>
       <atom:link href="https://felipeebert.github.io/tag/confusion/index.xml" rel="self" type="application/rss+xml" />
     <description>confusion</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 15 Feb 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://felipeebert.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>confusion</title>
       <link>https://felipeebert.github.io/tag/confusion/</link>
     </image>
+    
+    <item>
+      <title>Understanding Confusion in Code Reviews</title>
+      <link>https://felipeebert.github.io/post/phd-2019/</link>
+      <pubDate>Fri, 15 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://felipeebert.github.io/post/phd-2019/</guid>
+      <description>&lt;p&gt;Elected the best PhD thesis of 2019 at CIn/UFPE! &lt;br&gt;
+Currently competing for the national award &amp;ldquo;&lt;a target=&#34;_blank&#34; href=&#34;https://www.capes.gov.br/36-noticias/10316-abertas-as-inscricoes-para-o-premio-capes-2020&#34;&gt;Prêmio CAPES de Tese&lt;/a&gt;&amp;rdquo;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Confusion in Code Reviews: Reasons, Impacts, and Coping Strategies</title>

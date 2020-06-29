@@ -98,17 +98,32 @@
   </url>
   
   <url>
+    <loc>https://felipeebert.github.io/tag/code-reviews/</loc>
+    <lastmod>2019-02-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://felipeebert.github.io/tag/confusion/</loc>
+    <lastmod>2019-02-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://felipeebert.github.io/post/</loc>
+    <lastmod>2019-02-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://felipeebert.github.io/post/phd-2019/</loc>
+    <lastmod>2019-02-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://felipeebert.github.io/tag/card-sorting/</loc>
     <lastmod>2019-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://felipeebert.github.io/tag/code-review/</loc>
-    <lastmod>2019-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://felipeebert.github.io/tag/confusion/</loc>
     <lastmod>2019-02-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -128,8 +143,8 @@
   </url>
   
   <url>
-    <loc>https://felipeebert.github.io/tag/code-reviews/</loc>
-    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
+    <loc>https://felipeebert.github.io/services/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -268,15 +283,21 @@
   </url>
   
   <url>
+    <loc>https://felipeebert.github.io/post/master-2013/</loc>
+    <lastmod>2013-08-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://felipeebert.github.io/tag/eh-bugs/</loc>
+    <lastmod>2013-08-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://felipeebert.github.io/categories/</loc>
   </url>
   
   <url>
     <loc>https://felipeebert.github.io/author/felipe-ebert/</loc>
-  </url>
-  
-  <url>
-    <loc>https://felipeebert.github.io/post/</loc>
   </url>
   
 </urlset>
