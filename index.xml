@@ -33,8 +33,14 @@
       <link>https://felipeebert.github.io/post/phd-2019/</link>
       <pubDate>Fri, 15 Feb 2019 00:00:00 +0000</pubDate>
       <guid>https://felipeebert.github.io/post/phd-2019/</guid>
-      <description>&lt;p&gt;Elected the best PhD thesis of 2019 at CIn/UFPE! &lt;br&gt;
-Currently competing for the national award &amp;ldquo;&lt;a target=&#34;_blank&#34; href=&#34;https://www.capes.gov.br/36-noticias/10316-abertas-as-inscricoes-para-o-premio-capes-2020&#34;&gt;Prêmio CAPES de Tese&lt;/a&gt;&amp;rdquo;&lt;/p&gt;
+      <description>&lt;p&gt;Elected the best PhD thesis of 2019 at CIn/UFPE!&lt;br&gt;
+Currently competing for the national award 
+&lt;a href=&#34;https://www.capes.gov.br/36-noticias/10316-abertas-as-inscricoes-para-o-premio-capes-2020&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Prêmio CAPES de Tese&amp;rdquo;&lt;/a&gt;.&lt;br&gt;
+I also presented my thesis in the 3 Minute Thesis format in Portuguese on YouTube: 
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/SH_ibr89RbQ&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
 </description>
     </item>
     
@@ -44,21 +50,6 @@ Currently competing for the national award &amp;ldquo;&lt;a target=&#34;_blank&#
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
       <guid>https://felipeebert.github.io/publication/ebert-saner-2019/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Community Services</title>
-      <link>https://felipeebert.github.io/services/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://felipeebert.github.io/services/</guid>
-      <description>&lt;p&gt;widget = &amp;ldquo;blank&amp;rdquo;
-headless = true  # This file represents a page section.&lt;/p&gt;
-&lt;h1 id=&#34;-put-your-section-options-here-title-etc-&#34;&gt;&amp;hellip; Put Your Section Options Here (title etc.) &amp;hellip;&lt;/h1&gt;
-&lt;p&gt;[design]&lt;/p&gt;
-&lt;h1 id=&#34;choose-how-many-columns-the-section-has-valid-values-1-or-2&#34;&gt;Choose how many columns the section has. Valid values: 1 or 2.&lt;/h1&gt;
-&lt;p&gt;columns = &amp;ldquo;1&amp;rdquo;&lt;/p&gt;
-&lt;p&gt;Hello, this is a page where I descrive&amp;hellip;.&lt;/p&gt;
-</description>
     </item>
     
     <item>
@@ -139,6 +130,54 @@ headless = true  # This file represents a page section.&lt;/p&gt;
       <pubDate>Fri, 02 Aug 2013 00:00:00 +0000</pubDate>
       <guid>https://felipeebert.github.io/post/master-2013/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Community Services</title>
+      <link>https://felipeebert.github.io/services/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://felipeebert.github.io/services/</guid>
+      <description>&lt;h4 id=&#34;program-committee&#34;&gt;Program Committee:&lt;/h4&gt;
+&lt;p&gt;2020:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;International Conference on Software Maintenance and Evolution - Doctoral Symposium 
+&lt;a href=&#34;https://icsme2020.github.io/ProgramCommittee.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;(ICSME&#39;2020)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering - Student Research Competition 
+&lt;a href=&#34;https://2020.esec-fse.org/track/esecfse-2020-student-research-competition&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;(ESEC/FSE&#39;2020)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Seminar Series On Advanced Techniques &amp;amp; Tools For Software Evolution 
+&lt;a href=&#34;http://sattose.org/2020&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;(SATToSE&#39;2020)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;XIV Brazilian Symposium on Software Components, Architectures, and Reuse 
+&lt;a href=&#34;http://cbsoft2020.imd.ufrn.br/sbcars.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;(SBCARS&#39;2020)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;VIII Workshop on Software Visualization, Evolution and Maintenance 
+&lt;a href=&#34;https://vem2020.github.io/vem2020/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;(VEM&#39;2020)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;2019:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;XXXIII Brazilian Symposium on Software Engineering 
+&lt;a href=&#34;https://cbsoft2019.ufba.br/#/sbesInsightfulideastrack&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;(SBES&#39;2019)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;XIII Brazilian Symposium on Software Components, Architectures, and Reuse 
+&lt;a href=&#34;https://cbsoft2019.ufba.br/#/sbcars&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;(SBCARS&#39;2019)&lt;/a&gt; - 
+&lt;a href=&#34;reviewer-sbcards.jpg&#34;&gt;&lt;strong&gt;distinguished reviewer award!&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;VII Workshop on Software Visualization, Evolution and Maintenance 
+&lt;a href=&#34;https://vem2019.github.io/committee.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;(VEM&#39;2019)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;2018:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The 4th International Conference on Technology Trends (CITT&#39;2018)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;2017:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The 3rd International Conference on Technology Trends (CITT&#39;2017)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;individual-reviews&#34;&gt;Individual Reviews:&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Transactions on Software Engineering (TSE&#39;2020)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;student-volunteer&#34;&gt;Student Volunteer:&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Systems, Programming, Languages and Applications: Software for Humanity (SPLASH&#39;2016)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
   </channel>
