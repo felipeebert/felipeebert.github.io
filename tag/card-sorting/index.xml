@@ -1,24 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>card sorting | Felipe Ebert</title>
+    <title>Card sorting | Felipe Ebert</title>
     <link>https://felipeebert.github.io/tag/card-sorting/</link>
       <atom:link href="https://felipeebert.github.io/tag/card-sorting/index.xml" rel="self" type="application/rss+xml" />
-    <description>card sorting</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <description>Card sorting</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://felipeebert.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>card sorting</title>
+      <title>Card sorting</title>
       <link>https://felipeebert.github.io/tag/card-sorting/</link>
     </image>
+    
+    <item>
+      <title>An Exploratory Study on Confusion in Code Reviews</title>
+      <link>https://felipeebert.github.io/publication/ebert-emse-2020/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://felipeebert.github.io/publication/ebert-emse-2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Confusion in Code Reviews: Reasons, Impacts, and Coping Strategies</title>
       <link>https://felipeebert.github.io/publication/ebert-saner-2019/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
       <guid>https://felipeebert.github.io/publication/ebert-saner-2019/</guid>
-      <description>&lt;p&gt;This paper has received the &lt;strong&gt;best paper award&lt;/strong&gt; during the conference!&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
   </channel>
