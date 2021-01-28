@@ -5,20 +5,12 @@
     <link>https://felipeebert.github.io/author/alexander-serebrenik/</link>
       <atom:link href="https://felipeebert.github.io/author/alexander-serebrenik/index.xml" rel="self" type="application/rss+xml" />
     <description>Alexander Serebrenik</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://felipeebert.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Alexander Serebrenik</title>
       <link>https://felipeebert.github.io/author/alexander-serebrenik/</link>
     </image>
-    
-    <item>
-      <title>An Exploratory Study on Confusion in Code Reviews</title>
-      <link>https://felipeebert.github.io/publication/ebert-emse-2020/</link>
-      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://felipeebert.github.io/publication/ebert-emse-2020/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>A Reflection on &#34;An Exploratory Study on Exception Handling Bugs in Java Programs&#34;</title>
