@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Software Code metrics | Felipe Ebert</title>
+    <link>https://felipeebert.github.io/tag/software-code-metrics/</link>
+      <atom:link href="https://felipeebert.github.io/tag/software-code-metrics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Software Code metrics</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://felipeebert.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Software Code metrics</title>
+      <link>https://felipeebert.github.io/tag/software-code-metrics/</link>
+    </image>
+    
+    <item>
+      <title>&#34;When the Code becomes a Crime Scene&#34; Towards Dark Web Threat Intelligence with Software Quality Metrics</title>
+      <link>https://felipeebert.github.io/publication/cascavilla-icsme-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://felipeebert.github.io/publication/cascavilla-icsme-2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
