@@ -1,443 +1,267 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://felipeebert.github.io/publication-type/1/</loc>
     <lastmod>2022-02-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://felipeebert.github.io/author/alexander-serebrenik/</loc>
     <lastmod>2022-02-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://felipeebert.github.io/authors/</loc>
     <lastmod>2022-02-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://felipeebert.github.io/author/eleni-constantinou/</loc>
     <lastmod>2022-02-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://felipeebert.github.io/author/eric-arts/</loc>
     <lastmod>2022-02-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://felipeebert.github.io/</loc>
     <lastmod>2022-02-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://felipeebert.github.io/author/felipe-ebert/</loc>
     <lastmod>2022-02-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://felipeebert.github.io/author/hamid-mohayeji-nasrabadi/</loc>
     <lastmod>2022-02-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://felipeebert.github.io/publication/hamid-botse-2022/</loc>
     <lastmod>2022-02-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://felipeebert.github.io/publication_types/</loc>
     <lastmod>2022-02-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://felipeebert.github.io/publication/</loc>
     <lastmod>2022-02-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://felipeebert.github.io/author/christoph-treude/</loc>
     <lastmod>2022-02-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://felipeebert.github.io/author/fernando-castor/</loc>
     <lastmod>2022-02-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://felipeebert.github.io/author/nicole-novielli/</loc>
     <lastmod>2022-02-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://felipeebert.github.io/publication/ebert-ropes-2022/</loc>
     <lastmod>2022-02-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://felipeebert.github.io/publication/cascavilla-icsme-2022/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://felipeebert.github.io/tag/atoms-of-confusion/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://felipeebert.github.io/tag/code-reviews/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://felipeebert.github.io/tag/confusion/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://felipeebert.github.io/author/damian-a.-tamburri/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://felipeebert.github.io/tag/dark-web/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://felipeebert.github.io/publication/bogachenkova-icsme-2022/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://felipeebert.github.io/author/gemma-catolino/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://felipeebert.github.io/author/giuseppe-cascavilla/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://felipeebert.github.io/author/linh-nguyen/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://felipeebert.github.io/tag/machine-learning/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://felipeebert.github.io/tag/pull-requests/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://felipeebert.github.io/tag/software-code-metrics/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://felipeebert.github.io/tag/software-code-quality/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://felipeebert.github.io/tags/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://felipeebert.github.io/author/victoria-bogachenkova/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://felipeebert.github.io/author/willem-jan-van-den-heuvel/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://felipeebert.github.io/publication/gabrielle-sbcars-2021/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://felipeebert.github.io/tag/confidentiality/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://felipeebert.github.io/author/g.-porto/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://felipeebert.github.io/tag/information-flow-control/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://felipeebert.github.io/tag/integrity/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://felipeebert.github.io/author/rodrigo-andrade/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://felipeebert.github.io/tag/sensitive-information/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://felipeebert.github.io/publication-type/2/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://felipeebert.github.io/publication/ebert-emse-2021/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://felipeebert.github.io/tag/card-sorting/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://felipeebert.github.io/tag/survey/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://felipeebert.github.io/tag/systematic-mapping-study/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://felipeebert.github.io/tag/development-process/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://felipeebert.github.io/publication/ebert-icsme-2020/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://felipeebert.github.io/tag/software-documentation/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://felipeebert.github.io/tag/transient-information/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://felipeebert.github.io/publication/ebert-saner-2020/</loc>
     <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://felipeebert.github.io/tag/android/</loc>
     <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://felipeebert.github.io/tag/bugs/</loc>
     <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://felipeebert.github.io/tag/exception-handling/</loc>
     <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://felipeebert.github.io/tag/java/</loc>
     <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://felipeebert.github.io/tag/kotlin/</loc>
     <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://felipeebert.github.io/author/leopoldo-teixeira/</loc>
     <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://felipeebert.github.io/publication/oliveira-saner-2020/</loc>
     <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://felipeebert.github.io/tag/reflection-study/</loc>
     <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://felipeebert.github.io/author/victor-oliveira/</loc>
     <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://felipeebert.github.io/post/</loc>
     <lastmod>2019-02-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://felipeebert.github.io/post/phd-2019/</loc>
     <lastmod>2019-02-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://felipeebert.github.io/tag/code-review/</loc>
     <lastmod>2019-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://felipeebert.github.io/publication/ebert-saner-2019/</loc>
     <lastmod>2019-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://felipeebert.github.io/tag/communicative-intention/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://felipeebert.github.io/publication/ebert-icsme-2018/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://felipeebert.github.io/tag/exploratory-case-study/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://felipeebert.github.io/tag/questions/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://felipeebert.github.io/tag/citt/</loc>
     <lastmod>2018-08-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://felipeebert.github.io/talk/ictt-2018/</loc>
     <lastmod>2018-08-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://felipeebert.github.io/talk/</loc>
     <lastmod>2018-08-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://felipeebert.github.io/talk/crest-2017/</loc>
     <lastmod>2017-11-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://felipeebert.github.io/tag/cow/</loc>
     <lastmod>2017-11-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://felipeebert.github.io/tag/crest-open-workshop/</loc>
     <lastmod>2017-11-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://felipeebert.github.io/publication/ebert-icsme-2017/</loc>
     <lastmod>2017-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://felipeebert.github.io/tag/benevol/</loc>
     <lastmod>2017-04-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://felipeebert.github.io/talk/benevol-2017/</loc>
     <lastmod>2017-04-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://felipeebert.github.io/publication/reboucas-saner-2016/</loc>
     <lastmod>2016-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://felipeebert.github.io/author/gustavo-pinto/</loc>
     <lastmod>2016-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://felipeebert.github.io/author/marcel-reboucas/</loc>
     <lastmod>2016-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://felipeebert.github.io/author/weslley-torres/</loc>
     <lastmod>2016-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://felipeebert.github.io/publication/ebert-jss-2015/</loc>
     <lastmod>2015-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://felipeebert.github.io/tag/repository-mining/</loc>
     <lastmod>2015-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://felipeebert.github.io/author/irineu-moura/</loc>
     <lastmod>2015-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://felipeebert.github.io/publication/moura-msr-2013/</loc>
     <lastmod>2015-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://felipeebert.github.io/publication/ebert-icsm-2013/</loc>
     <lastmod>2013-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://felipeebert.github.io/post/master-2013/</loc>
     <lastmod>2013-08-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://felipeebert.github.io/tag/eh-bugs/</loc>
     <lastmod>2013-08-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://felipeebert.github.io/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://felipeebert.github.io/services/</loc>
   </url>
-  
 </urlset>

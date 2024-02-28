@@ -7,10 +7,33 @@
     <description>Felipe Ebert</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 25 Feb 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://felipeebert.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://felipeebert.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Felipe Ebert</title>
       <link>https://felipeebert.github.io/author/felipe-ebert/</link>
     </image>
+    
+    <item>
+      <title>Felipe Ebert</title>
+      <link>https://felipeebert.github.io/author/felipe-ebert/</link>
+      <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://felipeebert.github.io/author/felipe-ebert/</guid>
+      <description>&lt;p&gt;Hello! Starting from September 2022, I am working as a teacher at the 
+&lt;a href=&#34;https://www.fontys.nl/en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fontys University of Applied Sciences&lt;/a&gt;. From February of 2022 to August of 2022 I worked as a postdoctoral researcher at the 
+&lt;a href=&#34;https://www.jads.nl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jheronimus Academy of Data Science&lt;/a&gt;, a collaboration between Tilburg University and Eindhoven Technical University, with Prof. 
+&lt;a href=&#34;https://www.tue.nl/en/research/researchers/willem-jan-van-den-heuvel/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Willem-Jan Van Den Heuvel&lt;/a&gt;. From March of 2020 to January of 2022, I worked as a postdoctoral researcher (with teaching assistant function) at the 
+&lt;a href=&#34;https://www.tue.nl/en/our-university/departments/mathematics-and-computer-science/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Department of Mathematics and Computer Science&lt;/a&gt;, Eindhoven University of Technology 
+&lt;a href=&#34;https://www.tue.nl/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;(TU/e)&lt;/a&gt;, working with Prof. 
+&lt;a href=&#34;https://www.win.tue.nl/~aserebre&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Alexander Serebrenik&lt;/a&gt;. From March of 2019 to February of 2020, I worked as a postdoctoral researcher at the Informatics Center 
+&lt;a href=&#34;https://www3.cin.ufpe.br/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;(CIn)&lt;/a&gt;, Federal University of Pernambuco 
+&lt;a href=&#34;https://www.ufpe.br&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;(UFPE)&lt;/a&gt;, along with the Dr. 
+&lt;a href=&#34;https://sites.google.com/a/cin.ufpe.br/castor&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fernando Castor&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;In 2019 I obtained my PhD degree from CIn-UFPE under supervision of Dr. 
+&lt;a href=&#34;https://sites.google.com/a/cin.ufpe.br/castor&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fernando Castor&lt;/a&gt; and Prof. 
+&lt;a href=&#34;https://www.win.tue.nl/~aserebre&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Alexander Serebrenik&lt;/a&gt;. In 2013 I obtained my master&amp;rsquo;s degree from CIn-UFPE, working under supervision of Dr. 
+&lt;a href=&#34;https://sites.google.com/a/cin.ufpe.br/castor&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fernando Castor&lt;/a&gt;. In 2009 I got my bachelor&amp;rsquo;s degree from CIn-UFPE.&lt;/p&gt;
+&lt;p&gt;My research interests are related to how software systems and developers interact with each other. I&amp;rsquo;m interested in both technical and social aspects of software maintenance, specifically code reviews, mining software repositories, and also social development aspects. In the past, I also have worked with error handling and software energy consumption.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>On the Adoption of a TODO Bot on GitHub: A Preliminary Study</title>
